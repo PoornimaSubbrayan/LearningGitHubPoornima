@@ -1,1 +1,2 @@
 testing third file created
+Edited the 3rd testing file in GitHub Repo
