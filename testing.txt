@@ -1,2 +1,3 @@
 Created a testing text file for learning Git version control system
 Edited the testing.txt file in IntelliJ and push into GitHub repo
+Add content in GitHub and pull into IntelliJ
