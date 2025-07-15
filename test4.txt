@@ -1,2 +1,3 @@
 
 test 4th file created in GitHub and content added in IntelliJ
+File edited to check git status
